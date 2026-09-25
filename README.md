@@ -48,6 +48,10 @@ It checks the manifest, exact variable contract, safe CSS value forms, matching 
 
 This is an unofficial community theme for KiroCrew. It changes colors only and does not include CSS overrides or executable code.
 
+
+## Related
+
+- Hermes Agent skins + dashboard themes: https://github.com/pstarkgit/hermes-themes
 ## License
 
 [MIT](LICENSE)
